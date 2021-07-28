@@ -24,6 +24,9 @@ support multi-languages(English - Arabic)
 
 ![screen-capture](https://user-images.githubusercontent.com/36299732/127350172-6a5bacfd-aa0f-41af-9b98-fd13cc5c0d3d.gif)
 
+> Edit Movie Page
+
+![screen-capture (2)](https://user-images.githubusercontent.com/36299732/127353160-254e643a-ee25-429a-b953-3ac7390be5da.gif)
 
 > Delete Action
 
